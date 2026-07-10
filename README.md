@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 0xNizam
+# 👋 Hi, I'm Nizam
 
 > 🌐 **Tech Explorer** | 🔗 **Open Source Contributor** | 🧠 **Research-Driven Builder** | 🚀 **Turning ideas into systems**
 
@@ -39,5 +39,5 @@ I use GitHub as a space to explore ideas, document frameworks, and contribute me
 
 ---
 
-**Brand Identity:** `0xNizam` <br>
+**Brand Identity:** `NizamCore` <br>
 **Mindset:** Research → Structure → Execution
